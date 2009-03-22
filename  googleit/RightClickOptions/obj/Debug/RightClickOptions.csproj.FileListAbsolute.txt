@@ -1,0 +1,8 @@
+E:\Sourabh\VS\RightClickOptions\RightClickOptions\RightClickOptions\obj\Debug\ResolveAssemblyReference.cache
+E:\Sourabh\VS\RightClickOptions\RightClickOptions\RightClickOptions\obj\Debug\RightClickOptions.csproj.ResolveComReference.cache
+E:\Sourabh\VS\RightClickOptions\RightClickOptions\RightClickOptions\obj\Debug\RightClickOptions.CommandBar.resources
+E:\Sourabh\VS\RightClickOptions\RightClickOptions\RightClickOptions\obj\Debug\RightClickOptions.csproj.GenerateResource.Cache
+E:\Sourabh\VS\RightClickOptions\RightClickOptions\RightClickOptions\bin\RightClickOptions.dll
+E:\Sourabh\VS\RightClickOptions\RightClickOptions\RightClickOptions\bin\RightClickOptions.pdb
+E:\Sourabh\VS\RightClickOptions\RightClickOptions\RightClickOptions\obj\Debug\RightClickOptions.dll
+E:\Sourabh\VS\RightClickOptions\RightClickOptions\RightClickOptions\obj\Debug\RightClickOptions.pdb
