@@ -1,0 +1,1 @@
+Visual Studio Add-in to add a Right Click Menu option in the code window to google the selected code.
